@@ -8,6 +8,7 @@ public class CalculatorImpl implements Calculator {
 	public int add(int first, int second) {
 		int result =0;
 		result =first +second;
+		
 		return result;
 		
 	}
